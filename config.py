@@ -34,6 +34,7 @@ CLIENT_NAME = ''
 
 # In case of using local webdriver
 WEBDRIVER_PATH = '/usr/lib64/chromium/chromedriver'
+# WEBDRIVER_PATH = 'chromedriver.exe'
 BROWSER = webdriver.Chrome(executable_path=WEBDRIVER_PATH)
 
 # Uncomment below block if using remote webdriver

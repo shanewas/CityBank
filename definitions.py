@@ -20,3 +20,11 @@ Creators:
     Date of last edit: 23/10/2019
 """
 #Your code starts from here
+
+#Dummy XPath selectors for test run
+
+log_in_user = r'//*[@id="P101_USERNAME"]'
+log_in_psw = r'//*[@id="P101_PASS"]'
+captcha = r'//*[@id="P101_CAPTCHA"]'
+log_in_button = r'//*[@id="B72277838335750912"]'
+ok_button = r'//*[@id="apexConfirmBtn"]/span'
