@@ -48,3 +48,5 @@ BROWSER = webdriver.Chrome(executable_path=WEBDRIVER_PATH)
 
 AWS_ACCESS_TOKEN = ''
 NUMBER_OF_ENTRIES = ''
+
+LOGGING_SERVER_URL = 'wss://localhost:8765'
