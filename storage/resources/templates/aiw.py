@@ -9,8 +9,8 @@ method will be called to start running the bots.
 
 Example:
     
-    The rest of the code in this file can be considered as an example to follow,
-    and discarded while coding        
+    This file is auto-generated. It is recommended not to edit this file.
+    Required changes may be made in the bot.py or controller.py files        
 
 Creators:
     Names: Ehfaz & Shane
@@ -19,8 +19,3 @@ Creators:
 #Your code starts from here
 
 # Imports
-
-from src.bot1.bot import *
-
-process = Bot("AIW test")
-process.onStart()

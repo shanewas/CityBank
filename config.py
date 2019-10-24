@@ -29,8 +29,8 @@ from selenium import webdriver
 
 # from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
-APP_NAME = ''
-CLIENT_NAME = ''
+APP_NAME = 'CIB and NID automation'
+CLIENT_NAME = 'CBL'
 
 # In case of using local webdriver
 WEBDRIVER_PATH = '/usr/lib64/chromium/chromedriver'
