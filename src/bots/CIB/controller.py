@@ -29,6 +29,8 @@ sys.path.append("...") # Adds higher directory to python modules path.
 from config import *
 from definitions import *
 
+from datetime import datetime
+
 def loginToCBS():
 
     driver = BROWSER
