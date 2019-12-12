@@ -50,3 +50,4 @@ def loginToCBS():
         driver.find_element_by_xpath(captcha).send_keys("NNFA6")
         driver.find_element_by_xpath(log_in_button).click()
         print("Second")
+
