@@ -51,3 +51,6 @@ AWS_ACCESS_TOKEN = ''
 NUMBER_OF_ENTRIES = ''
 
 LOGGING_SERVER_URL = 'wss://localhost:8765'
+
+MY_ADDRESS = 'rpatesta3@gmail.com'
+PASSWORD = 'rpa@test@1'
